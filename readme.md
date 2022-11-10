@@ -1,6 +1,6 @@
-# Important Youtube Channels
+# Awesome Youtube Channels
 
-List of important Youtube Channels\
+List of awesome Youtube Channels\
 based on my opinion.\
 based on my usage.
 
