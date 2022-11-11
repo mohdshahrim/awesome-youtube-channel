@@ -16,7 +16,7 @@ based on my usage.
 
 Includes programming, computer science, computer skills
 
-- [**Ben Eater**](https://www.youtube.com/c/BenEater) - The best-practices CSS foundation.
+- [**Ben Eater**](https://www.youtube.com/c/BenEater) - Videos about inner-working of computer architecture and electronics.
 
 - [**Laracasts**](https://www.youtube.com/c/Laracastsofficial) - The best Laravel video tutorial.
 
@@ -27,6 +27,8 @@ Includes programming, computer science, computer skills
 - [**Beyond Fireship**](https://www.youtube.com/channel/UC2Xd-TjJByJyK2w1zNwY0zQ) - Sister channel to Fireship, but more focused on programming.
 
 - [**Beyond Fireship**](https://www.youtube.com/channel/UC2Xd-TjJByJyK2w1zNwY0zQ) - Sister channel to Fireship, but more focused on programming.
+
+- [**John Hammond**](https://www.youtube.com/c/JohnHammond010) - Legit hacker teaching how to hack.
 
 
 ## Documentary
@@ -44,4 +46,6 @@ Documentary that is relevant and very well-delivered.
 
 
 ## Entertainment
-- [**Elgin**](https://www.youtube.com/c/MLGuide) - MLBB player and streamer that always begin with "hey guys whatsup"
+- [**Elgin**](https://www.youtube.com/c/MLGuide) - MLBB player and streamer that always begin with "hey guys whatsup".
+
+- [**Hororo chan**](https://www.youtube.com/c/Hororochan) - Japanese MLBB player with great tutorials and game updates.
