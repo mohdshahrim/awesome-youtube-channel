@@ -26,14 +26,12 @@ Includes programming, computer science, computer skills
 
 - [**Beyond Fireship**](https://www.youtube.com/channel/UC2Xd-TjJByJyK2w1zNwY0zQ) - Sister channel to Fireship, but more focused on programming.
 
-- [**Beyond Fireship**](https://www.youtube.com/channel/UC2Xd-TjJByJyK2w1zNwY0zQ) - Sister channel to Fireship, but more focused on programming.
-
 - [**John Hammond**](https://www.youtube.com/c/JohnHammond010) - Legit hacker teaching how to hack.
 
 
 ## Documentary
 
-Documentary that is relevant and very well-delivered.
+Documentary that is relevant and well-delivered.
 
 - [**APHD Channel**](https://www.youtube.com/c/APHDChannel) - Documentary of history, politics, cultures and economy (served in Bahasa Malaysia).
 
@@ -49,3 +47,7 @@ Documentary that is relevant and very well-delivered.
 - [**Elgin**](https://www.youtube.com/c/MLGuide) - MLBB player and streamer that always begin with "hey guys whatsup".
 
 - [**Hororo chan**](https://www.youtube.com/c/Hororochan) - Japanese MLBB player with great tutorials and game updates.
+
+- [**Shinmen Takezo**](https://www.youtube.com/@ShinmenTakezo) - Also MLBB player and streamer with excessive use of puns.
+
+- [**Muse Malaysia**](https://www.youtube.com/@MuseMalaysia) - Anime streaming channel. Part of Muse Taiwan.
